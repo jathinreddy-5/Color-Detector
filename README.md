@@ -67,7 +67,7 @@ pip install opencv-python pandas
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/color-detection.git
+   git clone https://github.com/jathinreddy-5/color-detection.git
    cd color-detection
    ```
 
